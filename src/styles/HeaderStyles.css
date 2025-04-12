@@ -1,0 +1,33 @@
+.navigation-menu {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  
+}
+.navigation-menu li {
+  margin: 0px 20px;
+  margin: 10px 10px 30px 10px;
+}
+.navigation-menu li a {
+  text-decoration: none;
+  color: white;
+}
+.active {
+  color: rgb(218, 18, 18) !important;
+  font-weight: bold !important;
+  margin: auto;
+}
+/* mobile view */
+.mobile-navigation {
+  list-style: none;
+}
+.mobile-navigation li {
+  margin-top: 20px;
+}
+.mobile-navigation li a {
+  text-decoration: none;
+  font-size: 1.4rem;
+  color: rgb(64, 52, 232);
+}

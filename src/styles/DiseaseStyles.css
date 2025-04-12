@@ -1,0 +1,52 @@
+.disease-page {
+    position: relative;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+  }
+  
+  .disease-box {
+    position: relative;
+    z-index: 2;
+    padding: 2rem;
+    width: 90%;
+    max-width: 700px;
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.1);
+    color: rgb(12, 12, 12);
+    text-align: center;
+  }
+  
+  .disease-title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .disease-tabs .MuiTab-root {
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .tab-content {
+    margin-top: 1rem;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.05);
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  

@@ -1,45 +1,70 @@
-# Welcome Swasthya 👋
+# Getting Started with Create React App
 
-Hello Team **Swasthya** from **Sri Siddhartha Institute of Technology**,
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Welcome to the Hackathon! We're excited to have you on board and can't wait to see what you'll build under the theme **"Improving healthcare through technology"** 
+## Available Scripts
 
-## Team Details
+In the project directory, you can run:
 
-- **Team Number:** 178  
-- **Team Name:** Swasthya
-- **Team Leader:** Srujana T  
-- **Email:** srujanat185@gmail.com  
-- **Phone:** 9019092934  
+### `npm start`
 
-### Team Members:
-- Shrinivasa 
-- Sinchana B N 
-- Soumya U 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Problem Statement
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-> **To bridge the gap between allopathic and Ayurvedic medicine by providing a unified wellness platform...**
+### `npm test`
 
----
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Let's Get Started 
+### `npm run build`
 
-This repository has been set up for your hackathon project. Use it to manage your code, collaborate, and share your progress.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-**Important Guidelines - Please Read Carefully**
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- Do **not** make any commits **before the allotted start date and time**. Early commits may result in getting caught.
-- Commit your work **regularly** to showcase your progress throughout the hackathon.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- Maintain **professionalism and integrity** at all times. Any form of plagiarism or rule-breaking will lead to strict action.
+### `npm run eject`
 
-Let's keep it fair, fun, and impactful! 
----
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-**Good luck, Team Swasthya! Happy coding!**
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-If you need any support during the hackathon, don't hesitate to reach out to the co-ordinators.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Cheers,  
-_Advaya Hackathon Team_
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
